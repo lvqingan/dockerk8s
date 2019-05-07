@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/etcd-amd64:3.0.17
-MAINTAINER h0255 <hubt@dtdream.com>
+FROM gcr.io/google_containers/etcd-amd64:latest
+MAINTAINER lvqingan <36141749@qq.com>
